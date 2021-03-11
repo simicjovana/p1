@@ -28,8 +28,6 @@ def racunanje(string):
 
 
 
-
-
 def radi():
     try:
         string = input().strip()
